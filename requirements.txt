@@ -2,8 +2,7 @@ feedparser
 gitpython
 heroku3
 psycopg2-binary
-pyrogram
-aiohttp
+pyrogram==1.4.16
 python-dotenv
 pyromod==1.1.0
 speedtest-cli
